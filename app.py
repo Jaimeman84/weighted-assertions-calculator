@@ -399,7 +399,7 @@ Result = {'PASS' if result['overall_pass'] else 'FAIL'} ({result['aggregate_scor
     
     # Footer
     st.markdown("---")
-    st.markdown("**Built with Streamlit** | Based on [promptfoo documentation](https://www.promptfoo.dev/docs/configuration/expected-outputs/#weighted-assertions)")
+    st.markdown("Made with ❤️ by Jaime Mantilla, MSIT + AI | Built with Streamlit | Based on [promptfoo documentation](https://www.promptfoo.dev/docs/configuration/expected-outputs/#weighted-assertions)")
 
 if __name__ == "__main__":
     main()
